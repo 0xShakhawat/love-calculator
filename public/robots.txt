@@ -1,0 +1,3 @@
+# https://shakhawat.me
+User-agent: *
+Disallow:
